@@ -1,15 +1,19 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        int ans = 0;
-        unordered_map<char, int> m;
-        for(auto e : s) {
-            m[e]++;
+        vector<int> charFrequency(26, 0);
+        int totalLength = 0;
+        for (char currentChar : s) {
+            charFrequency[currentChar - 'a']++;
         }
-        for(auto e : m) {
-            if(e.second % 2 == 0) ans+=2;
-            else ans+=1;
+        for (int frequency : charFrequency) {
+            if (frequency == 0) continue;
+            if (frequency % 2 == 0) {
+                totalLength += 2;
+            } else {
+                totalLength += 1;
+            }
         }
-        return ans;
+        return totalLength;
     }
 };
