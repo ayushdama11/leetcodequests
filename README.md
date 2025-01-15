@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ayushdama11/leetcodequests/tree/master/0189-rotate-array) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayushdama11/leetcodequests/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushdama11/leetcodequests/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -61,4 +62,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushdama11/leetcodequests/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ayushdama11/leetcodequests/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ayushdama11/leetcodequests/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
