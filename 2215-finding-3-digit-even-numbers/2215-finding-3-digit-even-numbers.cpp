@@ -23,9 +23,9 @@ public:
                     if(m.find(c)!=m.end()) {    // mtlb a b c teeno hai set me 
                         ans.push_back(i);
                     }
-                    m[b]++;
+                    m[b]++;     // to check again for next numbers 
                 }
-                m[a]++;
+                m[a]++;    // to check again for next numbers 
             }
         }
         return ans;
