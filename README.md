@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ayushdama11/leetcodequests/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ayushdama11/leetcodequests/tree/master/0138-copy-list-with-random-pointer) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushdama11/leetcodequests/tree/master/1502-construct-k-palindrome-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -99,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ayushdama11/leetcodequests/tree/master/0138-copy-list-with-random-pointer) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
