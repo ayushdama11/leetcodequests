@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/ayushdama11/leetcodequests/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushdama11/leetcodequests/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayushdama11/leetcodequests/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushdama11/leetcodequests/tree/master/1502-construct-k-palindrome-strings) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushdama11/leetcodequests/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushdama11/leetcodequests/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushdama11/leetcodequests/tree/master/1502-construct-k-palindrome-strings) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushdama11/leetcodequests/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushdama11/leetcodequests/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/1925-count-nice-pairs-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayushdama11/leetcodequests/tree/master/3455-minimum-length-of-string-after-operations) |
