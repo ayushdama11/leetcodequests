@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayushdama11/leetcodequests/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushdama11/leetcodequests/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ayushdama11/leetcodequests/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushdama11/leetcodequests/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushdama11/leetcodequests/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ayushdama11/leetcodequests/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushdama11/leetcodequests/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ayushdama11/leetcodequests/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushdama11/leetcodequests/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ayushdama11/leetcodequests/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -133,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushdama11/leetcodequests/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+## Matrix
+|  |
+| ------- |
+| [2685-first-completely-painted-row-or-column](https://github.com/ayushdama11/leetcodequests/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
