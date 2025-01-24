@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/ayushdama11/leetcodequests/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/ayushdama11/leetcodequests/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushdama11/leetcodequests/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayushdama11/leetcodequests/tree/master/0138-copy-list-with-random-pointer) |
+| [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushdama11/leetcodequests/tree/master/1502-construct-k-palindrome-strings) |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushdama11/leetcodequests/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushdama11/leetcodequests/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushdama11/leetcodequests/tree/master/1777-determine-if-two-strings-are-close) |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushdama11/leetcodequests/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushdama11/leetcodequests/tree/master/1777-determine-if-two-strings-are-close) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
@@ -148,17 +152,24 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
