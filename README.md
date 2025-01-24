@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushdama11/leetcodequests/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/ayushdama11/leetcodequests/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushdama11/leetcodequests/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushdama11/leetcodequests/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushdama11/leetcodequests/tree/master/1777-determine-if-two-strings-are-close) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -139,4 +141,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushdama11/leetcodequests/tree/master/2685-first-completely-painted-row-or-column) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
