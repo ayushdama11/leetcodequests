@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/ayushdama11/leetcodequests/tree/master/1127-last-stone-weight) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushdama11/leetcodequests/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/ayushdama11/leetcodequests/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
