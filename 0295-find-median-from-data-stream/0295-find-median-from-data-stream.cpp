@@ -2,11 +2,6 @@ class MedianFinder {
 public:
     priority_queue<int> left;   // maxHeap - for first half
     priority_queue<int, vector<int>, greater<int>> right;   //minHeap - for second half
-
-    MedianFinder() {    // default constructor
-        
-    }
-    
     void addNum(int num) {
         if(left.size()==0 || num<left.top()) left.push(num);
         else right.push(num);
@@ -19,7 +14,6 @@ public:
             right.pop();
         }
     }
-    
     double findMedian() {
         if(left.size()==right.size()) {     // even condition
             return (left.top() + right.top())/2.0;
