@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayushdama11/leetcodequests/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/ayushdama11/leetcodequests/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayushdama11/leetcodequests/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushdama11/leetcodequests/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushdama11/leetcodequests/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayushdama11/leetcodequests/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushdama11/leetcodequests/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ayushdama11/leetcodequests/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/ayushdama11/leetcodequests/tree/master/2509-minimize-xor) |
@@ -116,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/ayushdama11/leetcodequests/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayushdama11/leetcodequests/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushdama11/leetcodequests/tree/master/1777-determine-if-two-strings-are-close) |
@@ -170,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/ayushdama11/leetcodequests/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayushdama11/leetcodequests/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ayushdama11/leetcodequests/tree/master/1127-last-stone-weight) |
@@ -191,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayushdama11/leetcodequests/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 ## Geometry
 |  |
