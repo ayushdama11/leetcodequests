@@ -106,12 +106,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ayushdama11/leetcodequests/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/ayushdama11/leetcodequests/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushdama11/leetcodequests/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ayushdama11/leetcodequests/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ayushdama11/leetcodequests/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
@@ -193,4 +196,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ayushdama11/leetcodequests/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ayushdama11/leetcodequests/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
