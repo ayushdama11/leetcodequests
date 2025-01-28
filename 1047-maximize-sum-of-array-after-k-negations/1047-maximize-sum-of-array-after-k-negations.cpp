@@ -1,21 +1,18 @@
 class Solution {
 public:
     int largestSumAfterKNegations(vector<int>& nums, int k) {
-        priority_queue<int, vector<int>, greater<int>> pq;
-        for(auto i : nums) {
-            pq.push(i);
-        }
+        priority_queue<int, vector<int>, greater<int>> pq(nums.begin(), nums.end());
         int sum = 0;
-        while(k>0) {
-            int x = pq.top();
-            pq.pop();
-            x = x*-1;
-            pq.push(x);
-            k--;
-        }
-        while(pq.size()>0) {
-            sum += pq.top();
-            pq.pop();
+        for(int i=0; i<nums.size(); i++) sum += nums[i];
+        while(k--) {
+            int el = pq.top();
+            if(el==0) {
+                break;
+            }
+            pq.pop();   // remove smallest
+            sum -= el;
+            pq.push(-1*el);     // add negated number
+            sum += (-el);
         }
         return sum;
     }
