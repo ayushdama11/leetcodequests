@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 | [0952-word-subsets](https://github.com/ayushdama11/leetcodequests/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/ayushdama11/leetcodequests/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1127-last-stone-weight](https://github.com/ayushdama11/leetcodequests/tree/master/1127-last-stone-weight) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushdama11/leetcodequests/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayushdama11/leetcodequests/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/ayushdama11/leetcodequests/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1502-construct-k-palindrome-strings](https://github.com/ayushdama11/leetcodequests/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ayushdama11/leetcodequests/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/ayushdama11/leetcodequests/tree/master/2509-minimize-xor) |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayushdama11/leetcodequests/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/ayushdama11/leetcodequests/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushdama11/leetcodequests/tree/master/1777-determine-if-two-strings-are-close) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
