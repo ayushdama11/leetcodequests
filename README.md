@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayushdama11/leetcodequests/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushdama11/leetcodequests/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushdama11/leetcodequests/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushdama11/leetcodequests/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushdama11/leetcodequests/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushdama11/leetcodequests/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ayushdama11/leetcodequests/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -148,10 +149,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushdama11/leetcodequests/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushdama11/leetcodequests/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushdama11/leetcodequests/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushdama11/leetcodequests/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushdama11/leetcodequests/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushdama11/leetcodequests/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ayushdama11/leetcodequests/tree/master/0295-find-median-from-data-stream) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushdama11/leetcodequests/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
