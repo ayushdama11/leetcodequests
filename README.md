@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/ayushdama11/leetcodequests/tree/master/1127-last-stone-weight) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ayushdama11/leetcodequests/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1962-single-threaded-cpu](https://github.com/ayushdama11/leetcodequests/tree/master/1962-single-threaded-cpu) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayushdama11/leetcodequests/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushdama11/leetcodequests/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/ayushdama11/leetcodequests/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ayushdama11/leetcodequests/tree/master/1777-determine-if-two-strings-are-close) |
+| [1962-single-threaded-cpu](https://github.com/ayushdama11/leetcodequests/tree/master/1962-single-threaded-cpu) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushdama11/leetcodequests/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ayushdama11/leetcodequests/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ayushdama11/leetcodequests/tree/master/1127-last-stone-weight) |
+| [1962-single-threaded-cpu](https://github.com/ayushdama11/leetcodequests/tree/master/1962-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
