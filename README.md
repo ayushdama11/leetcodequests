@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushdama11/leetcodequests/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ayushdama11/leetcodequests/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/ayushdama11/leetcodequests/tree/master/0057-insert-interval) |
 | [0189-rotate-array](https://github.com/ayushdama11/leetcodequests/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushdama11/leetcodequests/tree/master/0215-kth-largest-element-in-an-array) |
@@ -251,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushdama11/leetcodequests/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ayushdama11/leetcodequests/tree/master/3447-clear-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ayushdama11/leetcodequests/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
