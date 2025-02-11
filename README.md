@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushdama11/leetcodequests/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ayushdama11/leetcodequests/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ayushdama11/leetcodequests/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/ayushdama11/leetcodequests/tree/master/0057-insert-interval) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushdama11/leetcodequests/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ayushdama11/leetcodequests/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayushdama11/leetcodequests/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushdama11/leetcodequests/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushdama11/leetcodequests/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushdama11/leetcodequests/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -258,5 +261,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushdama11/leetcodequests/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ayushdama11/leetcodequests/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
