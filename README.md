@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushdama11/leetcodequests/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushdama11/leetcodequests/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ayushdama11/leetcodequests/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ayushdama11/leetcodequests/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/ayushdama11/leetcodequests/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushdama11/leetcodequests/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/ayushdama11/leetcodequests/tree/master/1127-last-stone-weight) |
 | [1962-single-threaded-cpu](https://github.com/ayushdama11/leetcodequests/tree/master/1962-single-threaded-cpu) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushdama11/leetcodequests/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ayushdama11/leetcodequests/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayushdama11/leetcodequests/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ayushdama11/leetcodequests/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushdama11/leetcodequests/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ayushdama11/leetcodequests/tree/master/3447-clear-digits) |
 ## Backtracking
