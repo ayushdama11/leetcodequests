@@ -3,8 +3,8 @@ public:
     int minOperations(vector<int>& nums, int k) {
         int ans = 0;
         int n = nums.size();
-        priority_queue<long long, vector<long long>, greater<long long> > pq;
-        for(auto n : nums) pq.push(n);
+        priority_queue<long long, vector<long long>, greater<long long> > pq(nums.begin(), nums.end());
+        // for(auto n : nums) pq.push(n);
         while(pq.size()>1 && pq.top()<k) {
             long long n1 = pq.top();
             pq.pop();
