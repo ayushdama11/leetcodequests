@@ -180,11 +180,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayushdama11/leetcodequests/tree/master/0547-number-of-provinces) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushdama11/leetcodequests/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushdama11/leetcodequests/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayushdama11/leetcodequests/tree/master/0547-number-of-provinces) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushdama11/leetcodequests/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushdama11/leetcodequests/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayushdama11/leetcodequests/tree/master/0547-number-of-provinces) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushdama11/leetcodequests/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -272,4 +275,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/ayushdama11/leetcodequests/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ayushdama11/leetcodequests/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ayushdama11/leetcodequests/tree/master/0051-n-queens) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayushdama11/leetcodequests/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
