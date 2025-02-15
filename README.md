@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/ayushdama11/leetcodequests/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/ayushdama11/leetcodequests/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdama11/leetcodequests/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ayushdama11/leetcodequests/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayushdama11/leetcodequests/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushdama11/leetcodequests/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayushdama11/leetcodequests/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ayushdama11/leetcodequests/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayushdama11/leetcodequests/tree/master/1036-rotting-oranges) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/ayushdama11/leetcodequests/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/ayushdama11/leetcodequests/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayushdama11/leetcodequests/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayushdama11/leetcodequests/tree/master/1036-rotting-oranges) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushdama11/leetcodequests/tree/master/2685-first-completely-painted-row-or-column) |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ayushdama11/leetcodequests/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/ayushdama11/leetcodequests/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
 | ------- |
